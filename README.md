@@ -11,7 +11,9 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [**Search** a particular element in a list. If it is exist, then print the position of an element, otherwise print -1.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/search.cpp)
 
-- [Find the **middle element** in the linked list](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/middleElement.cpp)
+- [Find the **middle element** in the linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/middleElement.cpp)
+
+-[Find the **Nth node from end** in the linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/NthNodeFromEnd.cpp)
 
 ### Doubly (Two way) Linked List 
 
