@@ -13,7 +13,7 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [Find the **middle element** in the linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/middleElement.cpp)
 
--[Find the **Nth node from end** in the linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/NthNodeFromEnd.cpp)
+- [Find the **Nth node from end** in the linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/NthNodeFromEnd.cpp)
 
 ### Doubly (Two way) Linked List 
 
