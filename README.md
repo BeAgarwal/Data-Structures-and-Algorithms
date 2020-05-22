@@ -15,6 +15,10 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [Find the **Nth node from end** in the linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/NthNodeFromEnd.cpp)
 
+- [**Reverse** a linked list by using iterative method.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/reverseLinkedListIterative.cpp)
+
+- [**Reverse** a linked list by using recursive method.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/reverseLinkedListRecursive.cpp)
+
 ### Doubly (Two way) Linked List 
 
 - [**Inserting** element at beginning of the list, at the end of the list, and at any particular position in the list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Doubly%20Linked%20List/insert.cpp)
