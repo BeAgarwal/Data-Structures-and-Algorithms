@@ -21,6 +21,8 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [Find the **smallest** and **largest** element in the linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/smallest_Largest.cpp)
 
+- [Convert the **Singly Linked List into Circular Linked List.**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/convertS2C.cpp)
+
 ### Doubly (Two way) Linked List 
 
 - [**Inserting** element at beginning of the list, at the end of the list, and at any particular position in the list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Doubly%20Linked%20List/insert.cpp)
