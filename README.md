@@ -23,6 +23,10 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [Convert the **Singly Linked List into Circular Linked List.**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/convertS2C.cpp)
 
+- [**Reverse** a Linked List in **groups of given size** using iterative method.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/reverseKgroupIterative.cpp)
+
+- [**Reverse** a Linked List in **groups of given size** using recursive method.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/reverseKgroupRecursive.cpp)
+
 ### Doubly (Two way) Linked List 
 
 - [**Inserting** element at beginning of the list, at the end of the list, and at any particular position in the list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Doubly%20Linked%20List/insert.cpp)
