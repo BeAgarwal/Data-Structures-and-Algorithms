@@ -29,6 +29,11 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [* **Add** two numbers represented by linked lists.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Add%20two%20list.cpp)
 
+- [**Merge** two sorted linked lists. Method 1](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Merge%202%20list1.cpp)
+
+- [**Merge** two sorted linked lists. Method 2](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Merge%202%20list3.cpp)
+
+- [**Merge** two sorted linked lists. Method 3 Recursively](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Merge%202%20list2.cpp)
 ### Doubly (Two way) Linked List 
 
 - [**Inserting** element at beginning of the list, at the end of the list, and at any particular position in the list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Doubly%20Linked%20List/insert.cpp)
