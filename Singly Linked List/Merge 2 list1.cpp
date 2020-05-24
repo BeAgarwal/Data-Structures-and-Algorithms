@@ -97,7 +97,7 @@ int main() {
 	second = insert(second, 18);
 	display(second);
 
-	third = SortedMerge(first, second);
+	third = merge(first, second);
 	display(third);
 
 
