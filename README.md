@@ -56,4 +56,6 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [**Implementation** of Stack using Linked List.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Implementation%20using%20Linked%20List.cpp)
 
+- [**Implementation** of Stack using Dynamic Arrays.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Implementation%20using%20dynamic%20arrays.c)
+
 > _* Important_
