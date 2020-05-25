@@ -29,7 +29,7 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [* **Add** two numbers represented by linked lists.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Add%20two%20list.cpp)
 
-- [**Merge** two sorted linked lists. Method 1](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Merge%202%20list1.cpp)
+- [* **Merge** two sorted linked lists. Method 1](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Merge%202%20list1.cpp)
 
 - [**Merge** two sorted linked lists. Method 2](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Merge%202%20list3.cpp)
 
@@ -49,5 +49,11 @@ Implementation of all Data Structures and Algorithms and questions related to th
 - [**Deleting** first element from the list, last element from the list, and any particular element from the list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Circular%20Linked%20List/delete.cpp)
 
 - [**Search** a particular element in a list. If it is exist, then print the position else print -1.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Circular%20Linked%20List/search.cpp)
+
+### Stack
+
+- [**Implementation** of Stack using Arrays.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Implementation%20using%20Array.cpp)
+
+- [**Implementation** of Stack using Linked List.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Implementation%20using%20Linked%20List.cpp)
 
 > _* Important_
