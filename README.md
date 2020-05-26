@@ -37,6 +37,8 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [* **Detect and remove loop** in a linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Detect%20and%20Remove%20Loop.cpp)
 
+- [**Segregate even and odd nodes** in a linked list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/Segregate%20even%20and%20odd.cpp)
+
 ### Doubly (Two way) Linked List 
 
 - [**Inserting** element at beginning of the list, at the end of the list, and at any particular position in the list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Doubly%20Linked%20List/insert.cpp)
