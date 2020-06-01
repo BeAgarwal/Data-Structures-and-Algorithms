@@ -65,4 +65,6 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [* **Stock Span Problem**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Stock%20Span%20Problem.cpp) [_{Question Statement}_](https://www.geeksforgeeks.org/the-stock-span-problem)
 
+- [**Previous Greater Element**. Given an array of distinct integers, find the closest (positive wise) greater on left of every element. If there is no greater element on l;eft, then print -1](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Previous%20Greater%20Element.cpp)
+
 > _* Important_
