@@ -63,4 +63,6 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [**Implementation** of Stack using Dynamic Arrays.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Implementation%20using%20dynamic%20arrays.c)
 
+- [* **Stock Span Problem**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Stock%20Span%20Problem.cpp) [_{Question Statement}_](https://www.geeksforgeeks.org/the-stock-span-problem)
+
 > _* Important_
