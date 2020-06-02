@@ -71,4 +71,5 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [* **Largest Rectangular Area in a Histogram.**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Largest%20Rectangular%20Area%20in%20a%20Histogram.cpp)
 
+- [* **Maximum Area Rectangle in Binary Matrix.**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Max%20Area%20Rectangle%20in%20Binary%20Matrix.cpp)
 > _* Important_
