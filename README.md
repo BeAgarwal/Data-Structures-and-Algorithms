@@ -77,6 +77,10 @@ Implementation of all Data Structures and Algorithms and questions related to th
 
 - [* **Maximum Area Rectangle in Binary Matrix.**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Stack/Max%20Area%20Rectangle%20in%20Binary%20Matrix.cpp)
 
+### Binary Tree
+
+- [Level Order Traversal](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Binary%20Tree/Level%20Order%20Traversal.cpp)
+
 ### Miscellaneous
 
 - [**Circular Tour**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Miscellaneous/Circular%20Tour.cpp)
