@@ -3,6 +3,10 @@
 # Data-Structures-and-Algorithms-using-CPP
 Implementation of all Data Structures and Algorithms and questions related to the data structures on Searching, Sorting, Stack, Queue, Linked List, Tree, Binary Search Tree, Heap, Graph, Backtracking, Trie, Dynamic Programming, etc.
 
+### Asymptotic Notation
+
+- [**Visualizing Big-O Notation**](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Big%20O%20Notation%20Plot.ipynb)
+
 ### Singly (Linear) Linked List 
 
 - [**Inserting** element at beginning of the list, end of the list, at particular position of the list, after any particular element of the list and inserting element in a sorted list.](https://github.com/BeAgarwal/Data-Structures-and-Algorithms/blob/master/Singly%20Linked%20List/insert.cpp)
